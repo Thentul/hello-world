@@ -3,4 +3,4 @@ test1
 The beginning
 of the end.
 
-Write-Output $("This" + " now.")
+Write-Output "This now."
