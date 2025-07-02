@@ -1,5 +1,6 @@
 #include <random>
 
+//  comment
 class rng
 {
     private:
