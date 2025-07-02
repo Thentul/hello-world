@@ -4,3 +4,5 @@ The beginning
 of the end.
 
 Write-Output "This now."
+
+use c++ instead.
